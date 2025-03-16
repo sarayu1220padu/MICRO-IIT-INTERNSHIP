@@ -1,4 +1,4 @@
-## Welcome to the Micro IIT Python Internship Tasks Repository!
+## Welcome to the Micro IIT Python Internship Projects Repository!
 
 This repository serves as a comprehensive collection of all the tasks and projects I completed during my Python Programming Internship at Micro IIT. Each task was designed to challenge and enhance my technical skills, providing me with hands-on experience in Python programming, problem-solving, and software development. This repository is organized to showcase my progress, learning, and accomplishments throughout the internship. Each task is stored in its respective folder, complete with source code, documentation, and resources for easy reference.
 
@@ -12,9 +12,9 @@ This repository serves as a comprehensive collection of all the tasks and projec
 
 - Project 2: Calculator 🧮
 
-- Project 3: Number Guessing Game 🔢
+- Project 3: Password Generator 🔐
 
-- Project 4: Password Generator 🔐
+- Project 4: Number Guessing Game 🔢
 
 - Project 5: Tic-Tac-Toe Game ❌⭕
 
@@ -42,17 +42,17 @@ Description: A simple calculator application that performs basic arithmetic oper
 
 Folder: Project 2 -  Calculator.py
 
-- Project 3:  Number Guessing Game 🔢
-
-Description:An interactive game where the player guesses a randomly generated number within a specified range. It provides feedback on whether the guess is too high, too low, or correct, adding an element of challenge.
- 
-Folder: Project 3 -  NumberGuessingGame.py
-
-- Project 4: Password Generator 🔐
+- Project 3: Password Generator 🔐
 
 Description: A secure tool that creates strong, random passwords based on user-defined criteria like length and character types. It helps protect user accounts by generating complex and hard-to-guess passwords.
 
-Folder: Project 4 - PasswordGenerator.py
+Folder: Project 3 - PasswordGenerator.py
+
+Project 4:  Number Guessing Game 🔢
+
+Description:An interactive game where the player guesses a randomly generated number within a specified range. It provides feedback on whether the guess is too high, too low, or correct, adding an element of challenge.
+ 
+Folder: Project 4 -  NumberGuessingGame.py
 
 - Project 5: Tic-Tac-Toe Game ❌⭕
   
