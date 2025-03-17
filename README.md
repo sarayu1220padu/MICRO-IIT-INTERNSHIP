@@ -24,7 +24,7 @@ This repository serves as a comprehensive collection of all the tasks and projec
 
 ## Introduction
 
-During my internship at Micro IIT, I had the opportunity to work on a variety of Python-based projects that helped me strengthen my programming fundamentals, improve my problem-solving abilities, and gain practical experience in developing user-friendly applications. The projects ranged from basic programming exercises to more advanced projects, each contributing to my growth as a Python developer.
+During my internship at Micro IIT, I had the opportunity to work on a variety of Python-based projects that helped me strengthen my programming fundamentals, improve my problem-solving abilities, and gain practical experience in developing user-friendly applications. The projects ranged from basic programming exercises to more advanced projects, each contributing to my growth as a Python developer.This repository is a reflection of my dedication and hard work throughout the internship.
 
 ## Tasks and Projects Overview
 
