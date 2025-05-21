@@ -70,4 +70,4 @@ Folder: Project 6 - To-Do-List.py
 
 I would like to extend my sincere thanks and gratitude to the entire Micro IIT team for providing me with this incredible opportunity to be a part of their internship program. The experience gained during this internship has been invaluable, and I am grateful for the guidance, mentorship, and support I received from Micro IIT's team.
 Micro IIT has not only deepened my technical expertise in Python programming but also given me exposure to real-world projects and a collaborative work environment, which will undoubtedly benefit my future career.
-Once again, thank you to CodSoft for this fantastic internship experience!
+Once again, thank you to  Micro IIT for this fantastic internship experience!
